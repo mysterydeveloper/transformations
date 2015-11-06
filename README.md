@@ -22,7 +22,9 @@ Save each step as a separate source file.
     ```
 
 1. Matrix test
-    ----
+
     1|0|1
     0|1|0
     0|0|1
+
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
