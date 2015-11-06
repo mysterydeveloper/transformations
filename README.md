@@ -22,9 +22,7 @@ Save each step as a separate source file.
     ```
 
 1. Matrix test
-
+    ----
     1|0|1
-    -----
     0|1|0
-    -----
     0|0|1
