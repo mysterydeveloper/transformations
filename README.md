@@ -29,3 +29,4 @@ Save each step as a separate source file.
     0|0|1
 
 
+![alt text](img/identity.png "Identity Matrix")
