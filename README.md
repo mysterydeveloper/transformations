@@ -13,7 +13,7 @@ In this exercise we will look at some transformations using matrices.
   
 1. Transformations in 2D can be represented as 3x3 matrices. In the matrix below the letters can be replaced by numbers to achieve desired effects such as translating, scaling and rotating, among others.
    
-   <img src="img/transformation.png" height="100px" alt="Transformation Matrix")
+   <img src="img/transformation.png" height="80px" alt="Transformation Matrix")
   
 
 1. Translation is the name we give to moving an object from one location to another. An object might be a rectangle, circle, triangle or something more complex.
@@ -21,14 +21,16 @@ In this exercise we will look at some transformations using matrices.
    If translation is all we want to do, we leave the four other letters as they are in the identity matrix.
    Below is an example of a matrix that will translate objects by (4,6).
    
-   <img src="img/translate.png" height="100px" alt="A translation matrix."></img>
+   <img src="img/translate.png" height="80px" alt="A translation matrix."></img>
    
 1. To use this matrix on a point (x,y), we map (x,y) to a 3x1 matrix, left multiply that by the translation matrix, and then map the product back to a point.
    Below we translate the point (1,1) by the matrix.
    
-   <img src="img/pointtomatrix.png" height="100px" alt="Converting a point to matrix."></img>
-   <img src="img/translateeg.png" height="100px" alt="A translation matrix example."></img>
-   <img src="img/matrixtopoint.png" height="100px" alt= "Converting a matrix to a point."></img>
+   <img src="img/pointtomatrix.png" height="80px" alt="Converting a point to matrix."></img>
+   
+   <img src="img/translateeg.png" height="80px" alt="A translation matrix example."></img>
+   
+   <img src="img/matrixtopoint.png" height="80px" alt= "Converting a matrix to a point."></img>
    
 
 ## Exercises
