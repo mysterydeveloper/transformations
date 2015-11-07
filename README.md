@@ -9,11 +9,11 @@ In this exercise we will look at some transformations using matrices.
    It has 0's everywhere except for the main diagonal and 1's in the main diagonal.
    Multiplying another matrix by the identity matrix (of the corresponding size) leaves the matrix as it is.
    
-   <img src="img/identity.png" height="100px" alt="Identity Matrix"></img>
+   <img src="img/identity.png" height="80px" alt="Identity Matrix"></img>
   
 1. Transformations in 2D can be represented as 3x3 matrices. In the matrix below the letters can be replaced by numbers to achieve desired effects such as translating, scaling and rotating, among others.
    
-   <img src="img/transformation.png" height="80px" alt="Transformation Matrix")
+   <img src="img/transformation.png" height="80px" alt="Transformation Matrix"></img>
   
 
 1. Translation is the name we give to moving an object from one location to another. An object might be a rectangle, circle, triangle or something more complex.
