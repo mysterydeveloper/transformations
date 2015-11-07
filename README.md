@@ -8,12 +8,24 @@ In this exercise we will look at some transformations using matrices.
    This is called the identity matrix.
    It has 0's everywhere except for the main diagonal and 1's in the main diagonal.
    Multiplying another matrix by the identity matrix (of the corresponding size) leaves the matrix as it is.
-  ![alt text](img/identity.png "Identity Matrix")
+   ![alt text](img/identity.png "Identity Matrix")
   
-1. Transformations in 2D can be represented at 3x3 matrices.
+1. Transformations in 2D can be represented as 3x3 matrices. In the matrix below the letters can be replaced by numbers to achieve desired effects such as translating, scaling and rotating, among others.
+   ![alt text](img/transformation.png "Transformation Matrix")
+  
 
-1. Translation is the name we
-
+1. Translation is the name we give to moving an object from one location to another. An object might be a rectangle, circle, triangle or something more complex.
+   We replace e in the above matrix with the number we want to translate in the direction of the x axis, and f by that of the y axis.
+   If translation is all we want to do, we leave the four other letters as they are in the identity matrix.
+   Below is an example of a matrix that will translate objects by (4,6).
+   ![alt text](img/translate.png "A translation matrix.")
+   
+1. To use this matrix on a point (x,y), we map (x,y) to a 3x1 matrix, left multiply that by the translation matrix, and then map the product back to a point.
+   Below we translate the point (1,1) by the matrix.
+   ![alt text](img/pointtomatrix.png "Converting a point to matrix.")
+   ![alt text](img/translateeg.png "A translation matrix example.")
+   ![alt text](img/matrixtopoing.png "Converting a matrix to a point.")
+   
 
 ## Exercises
 Save each step as a separate source file.
