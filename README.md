@@ -24,7 +24,7 @@ In this exercise we will look at some transformations using matrices.
    Below we translate the point (1,1) by the matrix.
    ![alt text](img/pointtomatrix.png "Converting a point to matrix.")
    ![alt text](img/translateeg.png "A translation matrix example.")
-   ![alt text](img/matrixtopoing.png "Converting a matrix to a point.")
+   ![alt text](img/matrixtopoint.png "Converting a matrix to a point.")
    
 
 ## Exercises
