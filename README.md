@@ -9,7 +9,7 @@ In this exercise we will look at some transformations using matrices.
    It has 0's everywhere except for the main diagonal and 1's in the main diagonal.
    Multiplying another matrix by the identity matrix (of the corresponding size) leaves the matrix as it is.
    
-   <img src="img/identity.png" height="100px" alt="Identity Matrix"></img>
+   <img src="img/identity.png" height="100px" alt="Identity Matrix" align="center"></img>
   
 1. Transformations in 2D can be represented as 3x3 matrices. In the matrix below the letters can be replaced by numbers to achieve desired effects such as translating, scaling and rotating, among others.
    ![alt text](img/transformation.png "Transformation Matrix")
