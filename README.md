@@ -31,6 +31,17 @@ In this exercise we will look at some transformations using matrices.
    <img src="img/translateeg.png" height="80px" alt="A translation matrix example."></img>
    
    <img src="img/matrixtopoint.png" height="80px" alt= "Converting a matrix to a point."></img>
+
+1. Scaling is achieved by replacing the first two number in the matrix diagonal, a and d.
+   Replacing a with a number will scale the object along the x axis.
+   Likewise, replacing d will scale along the y axis.
+   For instance to scale by (2,3), we use the following matrix.
+   
+   <img src="img/scale.png" height="80px" alt="A scaling matrix example."></img>
+   
+1. Rotation, counter-clockwise about the origin, is acheived using the following matrix.
+
+  <img src="img/rotation.png" height="80px" alt="The rotation matrix."></img>
    
 
 ## Exercises
