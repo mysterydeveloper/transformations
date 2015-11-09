@@ -32,7 +32,7 @@ In this exercise we will look at some transformations using matrices.
    
    <img src="img/matrixtopoint.png" height="80px" alt= "Converting a matrix to a point."></img>
 
-1. Scaling is achieved by replacing the first two number in the matrix diagonal, a and d.
+1. Scaling is achieved by replacing the first two numbers in the matrix diagonal, a and d.
    Replacing a with a number will scale the object along the x axis.
    Likewise, replacing d will scale along the y axis.
    For instance to scale by (2,3), we use the following matrix.
