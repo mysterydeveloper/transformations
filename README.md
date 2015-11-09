@@ -11,7 +11,8 @@ In this exercise we will look at some transformations using matrices.
    
    <img src="img/identity.png" height="80px" alt="Identity Matrix"></img>
   
-1. Transformations in 2D can be represented as 3x3 matrices. In the matrix below the letters can be replaced by numbers to achieve desired effects such as translating, scaling and rotating, among others.
+1. Transformations in 2D can be represented as 3x3 matrices.
+   In the matrix below the letters can be replaced by numbers to achieve desired effects such as translating, scaling and rotating, among others.
    
    <img src="img/transformation.png" height="80px" alt="Transformation Matrix"></img>
   
